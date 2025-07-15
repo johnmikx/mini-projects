@@ -24,5 +24,14 @@ mini-projects
 
 - Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
+## Credits and Acknowledgements
+
+**Some of the sample code, concepts, and learning materials in this repository are inspired by tutorials, open-source projects, and educational content created by developers, educators, and communities across the web.**
+
+I do not claim ownership over any third-party content referenced here. All code and resources are used purely for learning, experimentation, and non-commercial academic purposes under fair use.
+
+If you are the original creator of any material and would like to request proper credit or removal, feel free to open an issue in this repository.
+
+Huge thanks to the developers, content creators, and educators, including resources from various platforms, who continue to make learning accessible and inspiring for students and self-learners like me.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
