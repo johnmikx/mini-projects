@@ -11,20 +11,20 @@ These aren’t just snippets — they’re **small but complete solutions** 🚀
 
 ***:)***
 
-## Directory Structure
+## **Directory Structure**
 ```
 mini-projects
 ├── stock_market_analysis_with_signals/
 └── README.md
 ```
 
-## About the Author
+## **About the Author**
 
 🥷 **John Mike Asuncion (Mike)**
 
 - Driven **1st-year Computer Engineering student** with a keen interest in Data Science, Engineering, Machine Learning, and Artificial Intelligence.
 
-## Credits and Acknowledgements
+## **Credits and Acknowledgements**
 
 **Some of the sample code, concepts, and learning materials in this repository are inspired by tutorials, open-source projects, and educational content created by developers, educators, and communities across the web.**
 
