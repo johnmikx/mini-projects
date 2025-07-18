@@ -6,7 +6,6 @@ This practical Python script uses `yfinance`, `pandas`, and `matplotlib` to fetc
 
 <img src="assets/mindmap.jpg" alt="Mind Map" style="width: 100%;"/>
 
-
 ## **Credits**
 📚 **Tutorial Followed:** Python Coding ([@clcoding](https://x.com/clcoding) on Twitter)
 
