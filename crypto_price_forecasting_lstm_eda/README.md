@@ -4,4 +4,5 @@ Simulates historical price data for `ADA`, `AVAX`, and `LINK`; performs explorat
 
 ***:)***
 
+
 <img src="assets/mindmap.jpg" alt="Mind Map" style="width: 100%;"/>
