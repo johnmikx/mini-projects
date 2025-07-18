@@ -14,6 +14,7 @@ These aren’t just snippets — they’re **small but complete solutions** 🚀
 ## **Directory Structure**
 ```
 mini-projects
+├── crypto_price_forecasting_lstm_eda/
 ├── stock_market_analysis_with_signals/
 └── README.md
 ```
