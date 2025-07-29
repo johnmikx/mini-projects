@@ -15,7 +15,9 @@ These aren’t just snippets — they’re **small but complete solutions** 🚀
 ```
 mini-projects
 ├── crypto_price_forecasting_lstm_eda/
+├── hand_detection_overlay/
 ├── stock_market_analysis_with_signals/
+├── .gitignore/
 └── README.md
 ```
 
