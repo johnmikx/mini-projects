@@ -3,7 +3,7 @@ import mediapipe as mp
 import numpy as np
 
 # Load Hand Template Image
-template = cv2.imread('hand_template.png', cv2.IMREAD_UNCHANGED)
+template = cv2.imread('assets/hand_template.png', cv2.IMREAD_UNCHANGED)
 template_h, template_w = template.shape[:2]
 
 # Initialize Camera
@@ -64,7 +64,7 @@ while cap.isOpened():
                 center_x < x_max < center_x + template_w and
                 center_y < y_max < center_y + template_h):
                 # Bounding Box is Within the Template Area
-                video = cv2.VideoCapture('vid.mp4')
+                video = cv2.VideoCapture('assets/vid.mp4')
                 while video.isOpened():
                     ret_vid, frame_vid = video.read()
                     if not ret_vid:
