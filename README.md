@@ -14,6 +14,7 @@ These aren’t just snippets — they’re **small but complete solutions** 🚀
 ## **Directory Structure**
 ```
 mini-projects
+├── Intermediate Python Programming Course by freeCodeCamp.org/
 ├── Python for Beginners by freeCodeCamp.org/
 ├── crypto_price_forecasting_lstm_eda/
 ├── hand_detection_overlay/
