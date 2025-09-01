@@ -14,6 +14,6 @@ The goal of this directory is to serve as a **personal revision guide** and **pr
 
 ## **Credits**
 
-📚 **Tutorial Followed:** Python for Beginners – Full Course \[Programming Tutorial] ([@freecodecamp](https://www.youtube.com/@freecodecamp) on YouTube)
+📚 **Tutorial Followed:** Python for Beginners – Full Course [Programming Tutorial] ([@freecodecamp](https://www.youtube.com/@freecodecamp) on YouTube)
 
 🔗 **Original Link:** https://www.youtube.com/watch?v=eWRfhZUzrAc
