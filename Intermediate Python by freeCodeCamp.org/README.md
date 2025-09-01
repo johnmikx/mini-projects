@@ -2,7 +2,7 @@
 
 This directory is dedicated to reinforcing and expanding my **Python programming knowledge** by following along with the **[Intermediate Python Programming Course by freeCodeCamp.org](https://www.youtube.com/watch?v=HGOBQPFzWKo).**
 
-Inside **`Intermediate Python Programming Course by freeCodeCamp.org`**, you will find:
+Inside **`Intermediate Python by freeCodeCamp.org`**, you will find:
 
 * Mini-projects and examples built throughout the tutorial
 * Code implementations covering intermediate-level Python concepts
