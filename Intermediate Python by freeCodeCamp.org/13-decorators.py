@@ -164,4 +164,4 @@ say_hello()
 # - You can use a check decorator to check if the arguments fulfill some requirements and the depth of the behavior accordingly
 # - You can register functions, like plug ins, with decorators
 # - You can cache the return values
-# - You can add information or update state generators or functions that return an object that can be iterated
+# - You can add information or update state.
