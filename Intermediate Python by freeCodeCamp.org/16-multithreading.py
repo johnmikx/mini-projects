@@ -1,7 +1,7 @@
 # Objectives:
 
 # - We will quickly recap how we can create and start multiple threads
-# - We will learn how we can share data between threads and how to use locks to prevent race conditions.
+# - We will learn how we can share data between threads and how to use locks to prevent race conditions
 # - We will also learn what is daemon process and how we can use a queue for thread safe data exchanges
 
 from threading import Thread, Lock
