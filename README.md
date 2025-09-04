@@ -15,6 +15,7 @@ These aren’t just snippets — they’re **small but complete solutions** 🚀
 ```
 mini-projects
 ├── Intermediate Python by freeCodeCamp.org/
+├── OOP with Python by freeCodeCamp.org/
 ├── Python for Beginners by freeCodeCamp.org/
 ├── crypto_price_forecasting_lstm_eda/
 ├── hand_detection_overlay/
