@@ -4,7 +4,6 @@ This directory is dedicated to reinforcing and expanding my **Python programming
 
 Inside **`Intermediate Python by freeCodeCamp.org`**, you will find:
 
-* Mini-projects and examples built throughout the tutorial
 * Code implementations covering intermediate-level Python concepts
 * Practice exercises and notes for deeper understanding
 
