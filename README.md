@@ -5,15 +5,16 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 A curated set of **focused, goal-oriented mini projects** built to apply and reinforce my programming knowledge.  
-Each project explores real-world problems, simple automation, or interesting concepts using clean, functional code. 🔍
+Each project explores real-world problems, simple automation, or interesting concepts using clean, functional code.
 
-These aren’t just snippets — they’re **small but complete solutions** 🚀.
+These aren't just snippets — they’re **small but complete solutions**.
 
 ***:)***
 
 ## **Directory Structure**
 ```
-mini-projects
+mini-projects/
+├── DSA in Python by freeCodeCamp.org/
 ├── Intermediate Python by freeCodeCamp.org/
 ├── OOP with Python by freeCodeCamp.org/
 ├── Python for Beginners by freeCodeCamp.org/
