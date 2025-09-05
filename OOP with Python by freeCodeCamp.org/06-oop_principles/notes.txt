@@ -1,0 +1,29 @@
+- Encapsulation refers to a mechanism of restricting the direct access
+to some of our attributes in a program. Restricting the ability to override
+the values for your objects within your saddles, is exactly what the 
+encapsulation principle is all about.
+
+- Abstraction is the concept of object oriented programming that only shows
+the necessary attributes and hides the unnecessary information. The main
+purpose of abstraction is hiding unnecessary details from the users. You want
+to abstract the information that is unnecessary to call it or to access it
+from your instances
+
+- Inheritance is a mechanism that allows us to reuse code across our classes.
+You can come up with more child classes that will represent the kinds of items
+like laptop, keyboard, camera, everything thar you'll think about. And then
+you can just modify specific methods that you'd like to, calling to the kind
+of item that you have.
+
+- Polymorphism is a very important concept in programming. It refers to use
+of a single type entity to represent different types in different scenarios.
+Polymorphism refers to "many forms" `poly` being "many" and `morphism` being
+"forms".
+    - Polymorphism is a perfect cool we implemented by using abstract classes.
+    And that is just the identical way of using interfaces in other programming
+    languages like Java.
+    - Interface is a way that you can implement how a class should be designed.
+    - It is like a template for a class. And that is achievable by using abstract
+    classes.
+    - Polymorphism is a term that is implemented in differentareas in the whole
+    Python programming language.
