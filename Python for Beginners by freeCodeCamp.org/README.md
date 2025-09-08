@@ -10,6 +10,15 @@ Inside **`Python for Beginners by freeCodeCamp.org`**, you will find:
 
 The goal of this directory is to serve as a **personal revision guide** and **practical notebook** for Python basics, while also making it easier to revisit topics and review code implementations in the future.
 
+## **Directory Structure**
+```
+Python for Beginners by freeCodeCamp.org/
+├── black_jack_card_game_project/
+├── fundamentals_of_python/
+├── README.md
+└── rock_paper_scissors.py
+```
+
 ***:)***
 
 ## **Credits**
