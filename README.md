@@ -14,15 +14,15 @@ These aren't just snippets — they’re **small but complete solutions**.
 ## **Directory Structure**
 ```
 mini-projects/
+├── .gitignore
+├── README.md
+├── crypto_price_forecasting_lstm_eda/
 ├── DSA in Python by freeCodeCamp.org/
+├── hand_detection_overlay/
 ├── Intermediate Python by freeCodeCamp.org/
 ├── OOP with Python by freeCodeCamp.org/
 ├── Python for Beginners by freeCodeCamp.org/
-├── crypto_price_forecasting_lstm_eda/
-├── hand_detection_overlay/
-├── stock_market_analysis_with_signals/
-├── .gitignore
-└── README.md
+└── stock_market_analysis_with_signals/
 ```
 
 ## **About the Author**
